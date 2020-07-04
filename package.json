@@ -1,0 +1,12 @@
+{
+  "name": "read-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}

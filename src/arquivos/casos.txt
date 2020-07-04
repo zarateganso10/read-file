@@ -1,0 +1,44 @@
+Campo Grande +133
+Dourados +58
+Corumbá +42
+Rio Brilhante +9
+Bataguassu +7
+Sonora +7
+Maracaju +6
+São Gabriel do Oeste +6
+Batayporã +5
+Cassilândia +5
+Jateí +4
+Santa Rita do Pardo +3
+Naviraí +3
+Porto Murtinho +3
+Costa Rica +3
+Mundo Novo +3
+Três Lagoas +2
+Ivinhema +2
+Chapadão do Sul +2
+Ladário +2
+Corguinho +2
+Coxim +2
+Jardim +2
+Água Clara +1
+Anastácio +1
+Bandeirantes +1
+Itaquiraí +1
+Nova Alvorada do Sul +1
+Nova Andradina +1
+Figueirão +1
+Glória de Dourados +1
+Iguatemi +1
+Tacuru +1
+Brasilândia +1
+Aparecida do Taboado +1
+Paranaíba +1
+Guia Lopes da Laguna +1
+Rio Negro +1
+Rochedo +1
+Aquidauana +1
+Douradina +1
+Angélica -1
+Sidrolândia -1
+Itaporã -1
