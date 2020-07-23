@@ -16,7 +16,7 @@ Bonito 17
 Brasilândia 25
 Caarapó 45
 Camapuã 1
-Campo Grande 1253
+Campo Grande 1.253
 Caracol 9
 Cassilândia 42
 Chapadão do Sul 11

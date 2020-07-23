@@ -106,7 +106,7 @@ const readFile1 = file => new Promise((resolve, reject) => {
                     cidade = linha.slice( 0, linha.indexOf('+') -1)
                     soma = true;
                 }else{
-                    number = parseInt(linha.slice(linha.indexOf('-') + 1, linha.length));
+                    number = parseInt(linha.slice(linha.indexOf('-') + 1, linha.length).replace('.', ''));
                     cidade = linha.slice( 0, linha.indexOf('-') -1);
                     soma = false;
                 }
@@ -126,13 +126,14 @@ const readFile2 = file => new Promise((resolve, reject) => {
             const linhas = data.split(/\r?\n/);
             linhas.forEach(function(linha){
                 let index = -1;
+                
                 for(let i=0; i < linha.length; i++){
                     if(num.includes(linha[i])){
                         index = i;
                         break;
                     }
                 }
-                number = parseInt(linha.slice( index, linha.length))
+                number = parseInt(linha.slice( index, linha.length).replace('.', ''))
                 cidade = linha.slice(0 ,index - 1)
                 numSuspeitos.push({number, cidade});
             })
