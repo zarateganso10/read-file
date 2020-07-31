@@ -1,77 +1,76 @@
-Água Clara 12
-Alcinópolis 2
-Amambai 55
-Anastácio 7
-Angélica 6
-Antônio João 6
+Água Clara 86
+Alcinópolis 3
+Amambai 79
+Anastácio 129
+Angélica 51
+Antônio João 29
 Aparecida do Taboado 15
-Aquidauana 34
-Aral Moreira 17
-Bandeirantes 5
-Bataguassu 51
-Batayporã 12
-Bela Vista 1
-Bodoquena 6
-Bonito 17
-Brasilândia 25
-Caarapó 45
-Camapuã 1
-Campo Grande 1.253
-Caracol 9
-Cassilândia 42
-Chapadão do Sul 11
-Corguinho 9
-Coronel Sapucaia 8
-Corumbá 120
-Costa Rica 37
-Coxim 17
-Deodápolis 2
-Dois Irmãos do Buriti 1
-Douradina 9
-Dourados 956
-Eldorado 12
-Fátima do Sul 35
-Figueirão 1
-Glória de Dourados 18
-Guia Lopes da Laguna 9
-Iguatemi 10
-Inocência 2
-Itaporã 56
-Itaquiraí 38
-Ivinhema 15
-Japorã 1
-Jaraguari 2
-Jardim 10
-Jateí 20
-Juti 18
-Ladário 42
-Laguna Carapã 9
-Maracaju 71
-Miranda 1
-Mundo Novo 78
-Naviraí 33
-Nioaque 3
-Nova Alvorada do Sul 7
-Nova Andradina 12
-Novo Horizonte do Sul 6
-Paraíso das Águas 1
-Paranaíba 4
-Paranhos 1
-Pedro Gomes 1
-Ponta Porã 51
-Porto Murtinho 51
+Aquidauana 406
+Aral Moreira 5
+Bandeirantes 31
+Bataguassu 153
+Batayporã 22
+Bela Vista 2
+Bodoquena 5
+Bonito 16
+Brasilândia 26
+Caarapó 50
+Camapuã 3
+Campo Grande 3.198
+Cassilândia 32
+Chapadão do Sul 57
+Corguinho 4
+Coronel Sapucaia 11
+Corumbá 196
+Costa Rica 77
+Coxim 14
+Deodápolis 16
+Dois Irmãos do Buriti 13
+Douradina 3
+Dourados 635
+Eldorado 64
+Fátima do Sul 39
+Figueirão 3
+Glória de Dourados 1
+Guia Lopes da Laguna 26
+Iguatemi 72
+Inocência 46
+Itaporã 40
+Itaquiraí 19
+Ivinhema 7
+Japorã 2
+Jaraguari 6
+Jardim 39
+Jateí 11
+Juti 2
+Ladário 71
+Laguna Carapã 4
+Maracaju 79
+Miranda 192
+Mundo Novo 52
+Naviraí 38
+Nioaque 25
+Nova Alvorada do Sul 11
+Nova Andradina 11
+Novo Horizonte do Sul 4
+Paraíso das Águas 26
+Paranaíba 5
+Paranhos 5
+Ponta Porã 105
+Porto Murtinho 13
 Ribas do Rio Pardo 11
-Rio Brilhante 112
-Rio Negro 3
-Rio Verde de Mato Grosso 7
-Rochedo 3
-Santa Rita do Pardo 58
-São Gabriel do Oeste 27
-Sete Quedas 1
-Sidrolândia 33
-Sonora 23
-Tacuru 1
-Taquarussu 1
-Terenos 17
-Três Lagoas 179
-Vicentina 14
+Rio Brilhante 98
+Rio Negro 6
+Rio Verde de Mato Grosso 26
+Rochedo 9
+Santa Rita do Pardo 68
+São Gabriel do Oeste 36
+Selvíria 3
+Sete Quedas 4
+Sidrolândia 66
+Sonora 4
+Tacuru 55
+Taquarussu 4
+Terenos 41
+Três Lagoas 459
+Vicentina 9

@@ -1,483 +1,483 @@
 {
     "ms":{
         "name":"Mato Grosso do Sul",
-        "confirmados":9064,
-        "suspeitos":3789,
-        "descartados":34995,
-        "obitos":107
+        "confirmados":24287,
+        "suspeitos":6731,
+        "descartados":79613,
+        "obitos":357
     },
     "aguaClara":{
         "name":"Água Clara",
-        "confirmados":6,
-        "suspeitos":9,
+        "confirmados":23,
+        "suspeitos":112,
         "obitos":0
     },
     "alcinopolis":{
         "name":"Alcinópolis",
-        "confirmados":1,
-        "suspeitos":1,
-        "obitos":0
+        "confirmados":5,
+        "suspeitos":3,
+        "obitos":2
     },
     "amambai":{
         "name":"Amambai",
-        "confirmados":22,
-        "suspeitos":42,
+        "confirmados":77,
+        "suspeitos":87,
         "obitos":2
     },
     "anastacio":{
         "name":"Anastácio",
-        "confirmados":3,
-        "suspeitos":8,
-        "obitos":1
+        "confirmados":76,
+        "suspeitos":112,
+        "obitos":4
     },
     "anaurilandia":{
         "name":"Anaurilândia",
-        "confirmados":0,
-        "suspeitos":0,
+        "confirmados":22,
+        "suspeitos":1,
         "obitos":0
     },
     "angelica":{
         "name":"Angélica",
-        "confirmados":9,
-        "suspeitos":7,
-        "obitos":0
+        "confirmados":38,
+        "suspeitos":48,
+        "obitos":3
     },
     "antonioJoao":{
         "name":"Antônio João",
-        "confirmados":0,
-        "suspeitos":6,
+        "confirmados":29,
+        "suspeitos":32,
         "obitos":0
     },
     "aparecidaTaboado":{
         "name":"Aparecida do Taboado",
-        "confirmados":21,
-        "suspeitos":20,
-        "obitos":0
+        "confirmados":151,
+        "suspeitos":15,
+        "obitos":4
     },
     "aquidauana":{
         "name":"Aquidauana",
-        "confirmados":7,
-        "suspeitos":31,
-        "obitos":0
+        "confirmados":348,
+        "suspeitos":348,
+        "obitos":10
     },
     "aralMoreira":{
         "name":"Aral Moreira",
-        "confirmados":9,
-        "suspeitos":12,
-        "obitos":0
+        "confirmados":25,
+        "suspeitos":5,
+        "obitos":1
     },
     "bandeirantes":{
         "name":"Bandeirantes",
-        "confirmados":3,
-        "suspeitos":1,
+        "confirmados":38,
+        "suspeitos":34,
         "obitos":0
     },
     "bataguassu":{
         "name":"Bataguassu",
-        "confirmados":44,
-        "suspeitos":53,
-        "obitos":0
+        "confirmados":594,
+        "suspeitos":146,
+        "obitos":2
     },
     "bataypora":{
         "name":"Batayporã",
-        "confirmados":35,
-        "suspeitos":12,
+        "confirmados":64,
+        "suspeitos":17,
         "obitos":3
     },
     "belaVista":{
         "name":"Bela Vista",
-        "confirmados":2,
+        "confirmados":12,
         "suspeitos":1,
         "obitos":0
     },
     "bodoquena":{
         "name":"Bodoquena",
-        "confirmados":2,
-        "suspeitos":6,
+        "confirmados":4,
+        "suspeitos":7,
         "obitos":0
     },
     "bonito":{
         "name":"Bonito",
-        "confirmados":87,
-        "suspeitos":19,
+        "confirmados":114,
+        "suspeitos":15,
         "obitos":0
     },
     "brasilandia":{
         "name":"Brasilândia",
-        "confirmados":26,
-        "suspeitos":24,
+        "confirmados":59,
+        "suspeitos":28,
         "obitos":2
     },
     "caarapo":{
         "name":"Caarapó",
-        "confirmados":30,
-        "suspeitos":39,
+        "confirmados":186,
+        "suspeitos":41,
         "obitos":0
     },
     "camapua":{
         "name":"Camapuã",
-        "confirmados":5,
-        "suspeitos":1,
-        "obitos":0
+        "confirmados":25,
+        "suspeitos":4,
+        "obitos":1
     },
     "campoGrande":{
         "name":"Campo Grande",
-        "confirmados":2612,
-        "suspeitos":1006,
-        "obitos":18
+        "confirmados":9644,
+        "suspeitos":2903,
+        "obitos":119
     },
     "caracol":{
         "name":"Caracol",
-        "confirmados":15,
-        "suspeitos":12,
+        "confirmados":18,
+        "suspeitos":1,
         "obitos":0
     },
     "cassilandia":{
         "name":"Cassilândia",
-        "confirmados":17,
-        "suspeitos":41,
-        "obitos":1
+        "confirmados":56,
+        "suspeitos":27,
+        "obitos":3
     },
     "chapadaoDoSul":{
         "name":"Chapadão do Sul",
-        "confirmados":167,
-        "suspeitos":12,
-        "obitos":0
+        "confirmados":340,
+        "suspeitos":49,
+        "obitos":2
     },
     "corguinho":{
         "name":"Corguinho",
-        "confirmados":7,
-        "suspeitos":7,
-        "obitos":0
+        "confirmados":18,
+        "suspeitos":4,
+        "obitos":1
     },
     "coronelSapucaia":{
         "name":"Coronel Sapucaia",
         "confirmados":2,
-        "suspeitos":2,
+        "suspeitos":6,
         "obitos":0
     },
     "corumba":{
         "name":"Corumbá",
-        "confirmados":341,
-        "suspeitos":151,
-        "obitos":11
+        "confirmados":1173,
+        "suspeitos":204,
+        "obitos":36
     },
     "costaRica":{
         "name":"Costa Rica",
-        "confirmados":51,
-        "suspeitos":31,
-        "obitos":0
+        "confirmados":176,
+        "suspeitos":58,
+        "obitos":2
     },
     "coxim":{
         "name":"Coxim",
-        "confirmados":18,
-        "suspeitos":10,
-        "obitos":1
+        "confirmados":181,
+        "suspeitos":12,
+        "obitos":3
     },
     "deodapolis":{
         "name":"Deodápolis",
-        "confirmados":47,
-        "suspeitos":3,
+        "confirmados":102,
+        "suspeitos":17,
         "obitos":1
     },
     "doisIrmaos":{
         "name":"Dois Irmãos do Buriti",
-        "confirmados":0,
-        "suspeitos":1,
+        "confirmados":41,
+        "suspeitos":14,
         "obitos":0
     },
     "douradina":{
         "name":"Douradina",
-        "confirmados":110,
-        "suspeitos":9,
+        "confirmados":126,
+        "suspeitos":3,
         "obitos":2
     },
     "dourados":{
         "name":"Dourados",
-        "confirmados":2811,
-        "suspeitos":1168,
-        "obitos":29
+        "confirmados":4277,
+        "suspeitos":600,
+        "obitos":54
     },
     "eldorado":{
         "name":"Eldorado",
-        "confirmados":5,
-        "suspeitos":5,
+        "confirmados":52,
+        "suspeitos":65,
         "obitos":0
     },
     "fatima":{
         "name":"Fátima do Sul",
-        "confirmados":239,
-        "suspeitos":35,
-        "obitos":3
+        "confirmados":285,
+        "suspeitos":34,
+        "obitos":5
     },
     "figueirao":{
         "name":"Figueirão",
-        "confirmados":0,
-        "suspeitos":2,
+        "confirmados":1,
+        "suspeitos":1,
         "obitos":0
     },
     "gloria":{
         "name":"Glória de Dourados",
-        "confirmados":28,
-        "suspeitos":10,
+        "confirmados":55,
+        "suspeitos":1,
         "obitos":1
     },
     "guiaLopes":{
         "name":"Guia Lopes da Laguna",
-        "confirmados":251,
-        "suspeitos":9,
+        "confirmados":273,
+        "suspeitos":22,
         "obitos":3
     },
     "iguatemi":{
         "name":"Iguatemi",
-        "confirmados":11,
-        "suspeitos":9,
-        "obitos":1
+        "confirmados":222,
+        "suspeitos":43,
+        "obitos":3
     },
     "inocencia":{
         "name":"Inocência",
-        "confirmados":1,
-        "suspeitos":2,
+        "confirmados":17,
+        "suspeitos":40,
         "obitos":0
     },
     "itapora":{
         "name":"Itaporã",
-        "confirmados":118,
-        "suspeitos":62,
+        "confirmados":214,
+        "suspeitos":41,
         "obitos":4
     },
     "itaquirai":{
         "name":"Itaquiraí",
-        "confirmados":42,
-        "suspeitos":36,
-        "obitos":3
+        "confirmados":173,
+        "suspeitos":19,
+        "obitos":5
     },
     "ivinhema":{
         "name":"Ivinhema",
-        "confirmados":48,
-        "suspeitos":26,
-        "obitos":0
+        "confirmados":100,
+        "suspeitos":8,
+        "obitos":1
     },
     "japora":{
         "name":"Japorã",
-        "confirmados":0,
-        "suspeitos":1,
+        "confirmados":1,
+        "suspeitos":3,
         "obitos":0
     },
     "jaraguari":{
         "name":"Jaraguari",
-        "confirmados":0,
-        "suspeitos":2,
+        "confirmados":10,
+        "suspeitos":7,
         "obitos":0
     },
     "jardim":{
         "name":"Jardim",
-        "confirmados":52,
-        "suspeitos":11,
-        "obitos":0
+        "confirmados":84,
+        "suspeitos":36,
+        "obitos":1
     },
     "jatei":{
         "name":"Jateí",
-        "confirmados":16,
-        "suspeitos":20,
+        "confirmados":28,
+        "suspeitos":11,
         "obitos":0
     },
     "juti":{
         "name":"Juti",
-        "confirmados":9,
-        "suspeitos":17,
+        "confirmados":161,
+        "suspeitos":2,
         "obitos":0
     },
     "ladario":{
         "name":"Ladário",
-        "confirmados":47,
-        "suspeitos":44,
-        "obitos":0
+        "confirmados":214,
+        "suspeitos":54,
+        "obitos":4
     },
     "lagunaCarapa":{
         "name":"Laguna Carapã",
-        "confirmados":11,
-        "suspeitos":9,
-        "obitos":0
+        "confirmados":33,
+        "suspeitos":13,
+        "obitos":1
     },
     "maracaju":{
         "name":"Maracaju",
-        "confirmados":63,
-        "suspeitos":61,
-        "obitos":0
+        "confirmados":200,
+        "suspeitos":81,
+        "obitos":1
     },
     "miranda":{
         "name":"Miranda",
-        "confirmados":3,
-        "suspeitos":2,
-        "obitos":0
+        "confirmados":31,
+        "suspeitos":168,
+        "obitos":2
     },
     "mundoNovo":{
         "name":"Mundo Novo",
-        "confirmados":63,
-        "suspeitos":67,
-        "obitos":0
+        "confirmados":86,
+        "suspeitos":40,
+        "obitos":2
     },
     "navirai":{
         "name":"Naviraí",
-        "confirmados":118,
-        "suspeitos":32,
-        "obitos":1
+        "confirmados":373,
+        "suspeitos":26,
+        "obitos":7
     },
     "nioaque":{
         "name":"Nioaque",
-        "confirmados":0,
-        "suspeitos":3,
+        "confirmados":45,
+        "suspeitos":14,
         "obitos":0
     },
     "novaAlvorada":{
         "name":"Nova Alvorada do Sul",
-        "confirmados":24,
-        "suspeitos":7,
+        "confirmados":111,
+        "suspeitos":8,
         "obitos":0
     },
     "novaAndradina":{
         "name":"Nova Andradina",
-        "confirmados":52,
-        "suspeitos":15,
-        "obitos":2
+        "confirmados":136,
+        "suspeitos":11,
+        "obitos":5
     },
     "novoHorizonte":{
         "name":"Novo Horizonte do Sul",
-        "confirmados":14,
-        "suspeitos":6,
+        "confirmados":17,
+        "suspeitos":3,
         "obitos":0
     },
     "paraisoAguas":{
         "name":"Paraíso das Águas",
-        "confirmados":6,
-        "suspeitos":1,
-        "obitos":0
+        "confirmados":34,
+        "suspeitos":18,
+        "obitos":1
     },
     "paranaiba":{
         "name":"Paranaíba",
-        "confirmados":131,
-        "suspeitos":4,
-        "obitos":2
+        "confirmados":171,
+        "suspeitos":8,
+        "obitos":3
     },
     "paranhos":{
         "name":"Paranhos",
-        "confirmados":1,
-        "suspeitos":1,
+        "confirmados":4,
+        "suspeitos":5,
         "obitos":0
     },
     "pedroGomes":{
         "name":"Pedro Gomes",
-        "confirmados":0,
-        "suspeitos":2,
+        "confirmados":1,
+        "suspeitos":1,
         "obitos":0
     },
     "pontaPora":{
         "name":"Ponta Porã",
-        "confirmados":136,
-        "suspeitos":41,
-        "obitos":6
+        "confirmados":252,
+        "suspeitos":101,
+        "obitos":9
     },
     "portoMurtinho":{
         "name":"Porto Murtinho",
-        "confirmados":17,
-        "suspeitos":50,
+        "confirmados":49,
+        "suspeitos":9,
         "obitos":0
     },
     "ribas":{
         "name":"Ribas do Rio Pardo",
-        "confirmados":17,
-        "suspeitos":11,
+        "confirmados":41,
+        "suspeitos":15,
         "obitos":0
     },
     "rioBrilhante":{
         "name":"Rio Brilhante",
-        "confirmados":370,
-        "suspeitos":134,
-        "obitos":2
+        "confirmados":577,
+        "suspeitos":93,
+        "obitos":4
     },
     "rioNegro":{
         "name":"Rio Negro",
-        "confirmados":2,
-        "suspeitos":3,
-        "obitos":0
+        "confirmados":16,
+        "suspeitos":4,
+        "obitos":1
     },
     "rioVerde":{
         "name":"Rio Verde de Mato Grosso",
-        "confirmados":9,
-        "suspeitos":7,
-        "obitos":0
+        "confirmados":69,
+        "suspeitos":22,
+        "obitos":3
     },
     "rochedo":{
         "name":"Rochedo",
-        "confirmados":34,
-        "suspeitos":1,
+        "confirmados":50,
+        "suspeitos":8,
         "obitos":0
     },
     "santaRita":{
         "name":"Santa Rita do Pardo",
-        "confirmados":15,
-        "suspeitos":52,
+        "confirmados":39,
+        "suspeitos":77,
         "obitos":0
     },
     "saoGabriel":{
         "name":"São Gabriel do Oeste",
-        "confirmados":158,
-        "suspeitos":25,
-        "obitos":0
+        "confirmados":496,
+        "suspeitos":30,
+        "obitos":4
     },
     "selviria":{
         "name":"Selvíria",
-        "confirmados":3,
-        "suspeitos":1,
+        "confirmados":5,
+        "suspeitos":3,
         "obitos":0
     },
     "seteQuedas":{
         "name":"Sete Quedas",
-        "confirmados":0,
-        "suspeitos":1,
+        "confirmados":2,
+        "suspeitos":5,
         "obitos":0
     },
     "sidrolandia":{
         "name":"Sidrolândia",
-        "confirmados":35,
-        "suspeitos":26,
-        "obitos":2
+        "confirmados":483,
+        "suspeitos":66,
+        "obitos":13
     },
     "sonora":{
         "name":"Sonora",
-        "confirmados":41,
-        "suspeitos":20,
+        "confirmados":109,
+        "suspeitos":3,
         "obitos":1
     },
     "tacuru":{
         "name":"Tacuru",
-        "confirmados":8,
-        "suspeitos":1,
+        "confirmados":56,
+        "suspeitos":36,
         "obitos":0
     },
     "taquarussu":{
         "name":"Taquarussu",
         "confirmados":2,
-        "suspeitos":1,
+        "suspeitos":3,
         "obitos":0
     },
     "terenos":{
         "name":"Terenos",
-        "confirmados":10,
-        "suspeitos":11,
-        "obitos":0
+        "confirmados":137,
+        "suspeitos":48,
+        "obitos":3
     },
     "tresLagoas":{
         "name":"Três Lagoas",
-        "confirmados":296,
-        "suspeitos":150,
-        "obitos":5
+        "confirmados":663,
+        "suspeitos":465,
+        "obitos":12
     },
     "vicentina":{
         "name":"Vicentina",
-        "confirmados":70,
-        "suspeitos":13,
+        "confirmados":89,
+        "suspeitos":7,
         "obitos":2
     }
 }

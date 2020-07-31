@@ -1,0 +1,24 @@
+Campo Grande 129 1,3% Iguatemi 3 1,2%
+Dourados 55 1,3% Paranaíba 3 1,7%
+Corumbá 36 2,9% Rio Verde de Mato Grosso 3 4,1%
+Três Lagoas 14 2,0% Alcinópolis 2 40,0%
+Sidrolândia 13 2,4% Amambai 2 2,5%
+Aquidauana 12 3,3% Bataguassu 2 0,3%
+Ponta Porã 9 3,5% Brasilândia 2 3,4%
+Naviraí 7 1,9% Costa Rica 2 1,1%
+Fátima do Sul 5 1,8% Douradina 2 1,6%
+Itaquiraí 5 2,8% Maracaju 2 1,0%
+Nova Andradina 5 3,6% Miranda 2 5,4%
+Anastácio 4 4,7% Mundo Novo 2 2,3%
+Aparecida do Taboado 4 2,7% Vicentina 2 2,2%
+Itaporã 4 1,9% Aral Moreira 1 4,0%
+Ladário 4 1,8% Camapuã 1 4,0%
+Rio Brilhante 4 0,7% Corguinho 1 5,6%
+São Gabriel do Oeste 4 0,8% Deodápolis 1 1,0%
+Terenos 4 2,8% Glória de Dourados 1 1,8%
+Angélica 3 8,1% Ivinhema 1 1,0%
+Batayporã 3 4,6% Jardim 1 1,2%
+Cassilândia 3 5,2% Laguna Carapã 1 3,2%
+Chapadão do Sul 3 0,9% Paraíso das Águas 1 2,9%
+Coxim 3 1,6% Rio Negro 1 6,3%
+Guia Lopes da Laguna 3 1,1% Sonora 1 0,8%

@@ -3,6 +3,7 @@ const fs = require('fs');
 
 
 const dadosRepeat = dados;
+var mortes = []
 var casos = [];
 var suspeitos = [];
 let soma = false;
@@ -142,6 +143,51 @@ const readFile2 = file => new Promise((resolve, reject) => {
     } )
 })
 
+const readFile3 = file => new Promise((resolve, reject) => {
+    fs.readFile(__dirname + file, 'utf8',(err,data) => {
+        if(err){
+            reject(err)
+        }else{
+           const numMortes = [];
+           const linhas = data.split(/\r?\n/);
+            linhas.forEach(function(linha){
+                let index = linha.indexOf('%');
+                let first =  linha.slice(0, index + 1);
+                let second = linha.slice(index + 2, linha.length);
+                index = -1;
+                let final = -1;
+                for(let i=0; i < first.length; i++){
+                    if(num.includes(first[i]) && index < 0){
+                        index = i;
+                    }
+                    if(index > 0 && first[i] === ' '){
+                        final = i;
+                        break;
+                    }
+                }
+                number = parseInt(first.slice( index, final).replace('.', ''))
+                cidade = first.slice(0 ,index - 1)
+                numMortes.push({number, cidade});
+                index = -1;
+                final = -1;
+                for(let i=0; i < second.length; i++){
+                    if(num.includes(second[i]) && index < 0){
+                        index = i;
+                    }
+                    if(index > 0 && second[i] === ' '){
+                        final = i;
+                        break;
+                    }
+                }
+                number = parseInt(second.slice( index, final).replace('.', ''))
+                cidade = second.slice(0 ,index - 1)
+                numMortes.push({number, cidade});
+            })
+            resolve(numMortes)
+        }
+    } )
+})
+
 const writeFile = file => new Promise((resolve, reject) => {
     fs.readFile(__dirname + file, 'utf8',(err,data) => {
         if(err){
@@ -167,6 +213,7 @@ const writeFile = file => new Promise((resolve, reject) => {
 })
 
 async function Atualizar(){
+    const data3 = await readFile3('/arquivos/mortes.txt');
     const data1 = await readFile1('/arquivos/casos.txt');
     const data2 = await readFile2('/arquivos/suspeitos.txt');
     let totalCases = 0;
@@ -198,6 +245,20 @@ async function Atualizar(){
             }
         }
     })
+
+    let totalMortes = 0;
+
+    data3.map(caso => {
+        for(let i = 0; i < municipios.length; i++){
+            if(dados[municipios[i]].name.toLowerCase() === caso.cidade.toLowerCase()){
+                dadosRepeat[municipios[i]].obitos = caso.number
+                totalMortes += caso.number
+            }
+        }
+    })
+
+    dadosRepeat["ms"].obitos = totalMortes;
+
     dadosRepeat["ms"].suspeitos = totalSuspeitos;
     console.log(dadosRepeat["ms"])
     const dataAtualizada = JSON.stringify(dadosRepeat);
